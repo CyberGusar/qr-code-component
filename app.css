@@ -28,28 +28,24 @@ body {
     align-items: center;
 }
 
-#info-1 {
+h1 {
     text-align: center;
     color: hsl(218, 44%, 22%);
     font-weight: 700;
 }
 
-#info-2 {
+p {
     font-weight: 400;
     color: hsl(220, 15%, 55%);
     margin-top: 1.25rem;
     font-size: 1.25rem;
+    padding: 1.25rem;
 }
 
-#qr-img {
+img {
     max-width: 100%;
     width: 400px;
     border-radius: 5%;
-}
-
-ul {
-    list-style: none;
-    padding: 2.50rem;
 }
 
 .attribution {
